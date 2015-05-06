@@ -1,0 +1,95 @@
+recId|SeqNumber|seqLength|displayLatitude|displayLongitude|district|county|city|postalCode|state|country
+7403|1|1|-25.3121605|-57.3803406|Santo Domingo|Central|Areguá|2000||PRY
+7492|1|1|-25.3121605|-57.3803406|Santo Domingo|Central|Areguá|2000||PRY
+8891|3|3|14.4686604|121.0274582|San Antonio|Fourth District NCR|Parañaque||National Capital Region|PHL
+12125|1|3|41.6674194|-0.82974|Santa Isabel|Zaragoza|Zaragoza|50016|Aragón|ESP
+14029|4|4|29.5687103|-98.516037|Vista del Norte|Bexar|San Antonio|78216|TX|USA
+15286|2|2|29.5948391|-98.6502991||Bexar|San Antonio|78255|TX|USA
+16306|2|2|18.4700108|-69.8931274||Distrito Nacional|Santo Domingo|01001||DOM
+16456|2|2|-33.506031|-70.6479797||Santiago|San Miguel|8900000|Metropolitana de Santiago|CHL
+20349|2|2|-34.4436302|-71.0784531|San Vicente de Tagua Tagua|Cachapoal|San Vicente|2970000|Libertador Gral Bernardo O'Higgins|CHL
+26544|1|1|19.62432|-69.96143|El Zapote|María Trinidad Sánchez|Cabrera|33202||DOM
+27236|5|5|-34.5847206|-70.9933929||Colchagua|San Fernando|3070000|Libertador Gral Bernardo O'Higgins|CHL
+27977|1|1|26.16115|-98.2944336||Hidalgo|Mission|78572|TX|USA
+31307|1|1|35.98832|-105.93311|El Potrero|Santa Fe|Chimayo|87522|NM|USA
+33148|1|1|34.1182213|-117.8045883||Los Angeles|San Dimas|91773|CA|USA
+36648|9|9|37.2622604|-107.8752975||La Plata|Durango|81301|CO|USA
+37016|1|1|37.2518196|-121.8946915|Branham-Jarvis|Santa Clara|San Jose|95118|CA|USA
+40168|2|2|28.0635605|-15.4246597|Salto del Negro|Las Palmas|Las Palmas de Gran Canaria|35016|Islas Canarias|ESP
+43712|1|1|34.02123|-118.32805|Cienega|Los Angeles|Los Angeles|90018|CA|USA
+53230|1|1|26.17132|-98.2948074||Hidalgo|Mission|78572|TX|USA
+53249|1|1|7.79046|-72.06183|La Florida||Cardenas||Táchira|VEN
+55690|1|1|-26.23789|-57.18112|Sagrado Corazón de Jesús|Paraguarí|Caapucú|4300||PRY
+56176|1|1|26.17132|-98.2948074||Hidalgo|Mission|78572|TX|USA
+57887|1|1|40.6588097|-3.18448||Guadalajara|Guadalajara|19180|Castilla-La Mancha|ESP
+57896|1|1|40.6588097|-3.18448||Guadalajara|Guadalajara|19180|Castilla-La Mancha|ESP
+57910|2|2|40.6460609|-3.1819601||Guadalajara|Guadalajara|19004|Castilla-La Mancha|ESP
+57947|1|1|40.6588097|-3.18448||Guadalajara|Guadalajara|19180|Castilla-La Mancha|ESP
+57977|2|2|40.6559|-3.18502||Guadalajara|Guadalajara|19004|Castilla-La Mancha|ESP
+57998|1|1|40.6588097|-3.18448||Guadalajara|Guadalajara|19180|Castilla-La Mancha|ESP
+58013|1|1|40.6635284|-3.1967499||Guadalajara|Guadalajara|19004|Castilla-La Mancha|ESP
+58017|3|5|40.6857796|-3.0889699||Guadalajara|Guadalajara|19004|Castilla-La Mancha|ESP
+58017|4|5|40.6539803|-3.1270199|Taracena|Guadalajara|Guadalajara|19193|Castilla-La Mancha|ESP
+58017|5|5|40.6845818|-3.0898399|Valdenoches|Guadalajara|Guadalajara|19004|Castilla-La Mancha|ESP
+58025|2|2|40.65497|-3.18512||Guadalajara|Guadalajara|19004|Castilla-La Mancha|ESP
+58051|2|2|40.7136497|-3.26929|Usanos|Guadalajara|Guadalajara|19193|Castilla-La Mancha|ESP
+58106|1|1|40.6588097|-3.18448||Guadalajara|Guadalajara|19180|Castilla-La Mancha|ESP
+58120|1|1|40.6588097|-3.18448||Guadalajara|Guadalajara|19180|Castilla-La Mancha|ESP
+58121|2|2|40.65379|-3.1849||Guadalajara|Guadalajara|19004|Castilla-La Mancha|ESP
+58122|2|2|40.65424|-3.18521||Guadalajara|Guadalajara|19004|Castilla-La Mancha|ESP
+58123|2|2|40.65357|-3.18527||Guadalajara|Guadalajara|19004|Castilla-La Mancha|ESP
+58193|2|2|40.65379|-3.1849||Guadalajara|Guadalajara|19004|Castilla-La Mancha|ESP
+58205|1|2|40.6340294|-3.16944||Guadalajara|Guadalajara|19001|Castilla-La Mancha|ESP
+58205|2|2|40.6339302|-3.1700499||Guadalajara|Guadalajara|19001|Castilla-La Mancha|ESP
+58209|1|2|40.65357|-3.18527||Guadalajara|Guadalajara|19004|Castilla-La Mancha|ESP
+58212|2|2|40.6212883|-3.15868||Guadalajara|Guadalajara|19002|Castilla-La Mancha|ESP
+58217|1|2|40.65379|-3.1849||Guadalajara|Guadalajara|19004|Castilla-La Mancha|ESP
+58220|3|3|40.65379|-3.1849||Guadalajara|Guadalajara|19004|Castilla-La Mancha|ESP
+58261|1|1|40.65379|-3.1849||Guadalajara|Guadalajara|19004|Castilla-La Mancha|ESP
+58264|2|2|40.637989|-3.1860399||Guadalajara|Guadalajara|19004|Castilla-La Mancha|ESP
+58273|1|1|40.65379|-3.1849||Guadalajara|Guadalajara|19004|Castilla-La Mancha|ESP
+58274|1|1|40.65694|-3.18458||Guadalajara|Guadalajara|19180|Castilla-La Mancha|ESP
+58289|2|2|40.65379|-3.1849||Guadalajara|Guadalajara|19004|Castilla-La Mancha|ESP
+58295|2|2|40.65357|-3.18527||Guadalajara|Guadalajara|19004|Castilla-La Mancha|ESP
+58296|2|2|40.65379|-3.1849||Guadalajara|Guadalajara|19004|Castilla-La Mancha|ESP
+58300|2|2|40.65951|-3.18428||Guadalajara|Guadalajara|19180|Castilla-La Mancha|ESP
+58305|2|2|40.65424|-3.18521||Guadalajara|Guadalajara|19004|Castilla-La Mancha|ESP
+58306|2|2|40.65424|-3.18521||Guadalajara|Guadalajara|19004|Castilla-La Mancha|ESP
+58307|1|1|40.65357|-3.18527||Guadalajara|Guadalajara|19004|Castilla-La Mancha|ESP
+58308|1|1|40.65497|-3.18512||Guadalajara|Guadalajara|19004|Castilla-La Mancha|ESP
+58310|2|2|40.65379|-3.1849||Guadalajara|Guadalajara|19004|Castilla-La Mancha|ESP
+58312|2|2|40.65357|-3.18527||Guadalajara|Guadalajara|19004|Castilla-La Mancha|ESP
+58313|2|2|40.65357|-3.18527||Guadalajara|Guadalajara|19004|Castilla-La Mancha|ESP
+58329|1|1|40.6588097|-3.18448||Guadalajara|Guadalajara|19180|Castilla-La Mancha|ESP
+58333|1|1|40.65379|-3.1849||Guadalajara|Guadalajara|19004|Castilla-La Mancha|ESP
+60326|2|2|34.02123|-118.32805|Cienega|Los Angeles|Los Angeles|90018|CA|USA
+60387|1|1|34.02123|-118.32805|Cienega|Los Angeles|Los Angeles|90018|CA|USA
+64528|1|2|-31.6112995|-60.5940208||Santa Fe|San José del Rincón|3001|Santa Fe|ARG
+64572|1|1|-31.6112995|-60.5940208||Santa Fe|San José del Rincón|3001|Santa Fe|ARG
+64584|1|2|-31.6112995|-60.5940208||Santa Fe|San José del Rincón|3001|Santa Fe|ARG
+65941|1|1|13.4675999|-88.1652298||San Miguel|San Miguel|||SLV
+66181|1|1|-24.27693|-56.93129|San Antonio|San Pedro|Villa del Rosario|8070||PRY
+80702|1|3|-18.49481|-63.21658|Las Piedras|Cordillera|Cabezas||Santa Cruz|BOL
+80702|2|3|-17.94547|-64.14829|Las Piedras|Florida|Pampa Grande||Santa Cruz|BOL
+80702|3|3|-17.02783|-63.60476|Las Piedras|Sara|Santa Rosa del Sara||Santa Cruz|BOL
+91049|2|2|-26.6695709|-57.1390419|Boquerón|Misiones|San Juan Bautista|4700||PRY
+95128|1|1|-51.58346|-72.21186||Güer Aike|28 de Noviembre|9408|Santa Cruz|ARG
+100807|2|2|-33.3084488|-60.2513084||San Nicolás|San Nicolás de los Arroyos|2900|Buenos Aires|ARG
+101085|6|6|-31.6215096|-58.5101585||San Salvador|San Salvador|3218|Entre Rios|ARG
+101409|2|2|28.0631104|-15.4288502|Salto del Negro|Las Palmas|Las Palmas de Gran Canaria|35016|Islas Canarias|ESP
+103087|1|1|-35.0294304|-58.4229813||San Vicente|San Vicente|1865|Buenos Aires|ARG
+110336|2|2|9.8634|-84.47619|San Francisco|Turrubares|San Luis|11604|San José|CRI
+114561|1|4|18.6589794|-69.4840927||San Pedro de Macorís|San Jose de los Llanos|51204||DOM
+114561|2|4|18.6163902|-69.5004501||San Pedro de Macorís|San Jose de los Llanos|51201||DOM
+114561|3|4|18.5399303|-69.4841309||San Pedro de Macorís|San Jose de los Llanos|51203||DOM
+114561|4|4|18.6158791|-69.5005493||San Pedro de Macorís|San Jose de los Llanos|51506||DOM
+120302|1|1|36.0998497|-105.7228622||Taos|Chamisal|87521|NM|USA
+122519|1|3|34.1327591|-117.5685501||San Bernardino|Rancho Cucamonga|91701|CA|USA
+125554|1|1|36.69932|-106.55105||Rio Arriba|Tierra Amarilla|87575|NM|USA
+132532|1|1|35.88969|-106.08144|El Rancho|Santa Fe|Santa Fe|87506|NM|USA
+132538|1|1|35.25751|-105.31834|El Cerrito|San Miguel|Ribera|87560|NM|USA
+137026|1|1|-31.3808308|-64.1572952||Córdoba|Córdoba|5000|Córdoba|ARG
+142457|1|1|20.27734|-77.13523|San Francisco|Granma|Manzanillo|||CUB
+142911|2|2|41.6488991|-4.7174001|Circular|Valladolid|Valladolid|47005|Castilla y León|ESP
+142922|2|2|41.65271|-4.7281499|Plaza Mayor|Valladolid|Valladolid|47001|Castilla y León|ESP
+144606|1|1|-33.1428909|-71.5689316|Curauma|Valparaíso|Valparaíso|2340000|Valparaíso|CHL

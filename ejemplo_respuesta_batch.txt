@@ -1,0 +1,5 @@
+recId|seqNumber|seqLength|displayLatitude|displayLongitude |houseNumber|street|city|postalCode|country|
+          1|1|2|41.8838692|-87.6389008|425|W Randolph St|Chicago|60606|USA
+          1|2|2|41.8842278|-87.6169052|425|E Randolph St|Chicago|60601|USA
+          2|1|1|42.3508682|-71.0714874|31|Saint James Ave|Boston|02116|USA
+          3|1|1|52.5304108|13.3852701|117|Invalidenstraße|Berlin|10115|DEU

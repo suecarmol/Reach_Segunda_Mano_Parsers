@@ -1,0 +1,91 @@
+Postman:
+
+http://batch.geocoder.cit.api.here.com/6.2/jobs?action=run&header=true&indelim=|&additionaldata=normalizeNames,true&outcols=displayLatitude,displayLongitude,locationLabel&outputcombined=false&outdelim=|&mailto=suecarmol@gmail.com&gen=8&app_id=xKm59owTXnvSZ5zyQdXN&app_code=bDsF80_TmRgKywxQlXFgTg
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:SearchBatch 
+    xmlns:ns2="http://www.navteq.com/lbsp/Search-Batch/1">
+    <Response>
+        <MetaInfo>
+            <RequestId>Pmv8IULO4HCMb5Yhf6D9tpiuCYJJZgkB</RequestId>
+        </MetaInfo>
+        <Status>accepted</Status>
+        <TotalCount>0</TotalCount>
+        <ValidCount>0</ValidCount>
+        <InvalidCount>0</InvalidCount>
+        <ProcessedCount>0</ProcessedCount>
+        <PendingCount>0</PendingCount>
+        <SuccessCount>0</SuccessCount>
+        <ErrorCount>0</ErrorCount>
+    </Response>
+</ns2:SearchBatch>
+
+BATCH CON SEPARACION --------
+
+http://batch.geocoder.cit.api.here.com/6.2/jobs/zPjsWmRaYhNZuFNz5lFI6SAqNvGM0m7G?action=status&app_id=xKm59owTXnvSZ5zyQdXN&app_code=bDsF80_TmRgKywxQlXFgTg
+
+http://batch.geocoder.cit.api.here.com/6.2/jobs/zPjsWmRaYhNZuFNz5lFI6SAqNvGM0m7G/all?app_id=xKm59owTXnvSZ5zyQdXN&app_code=bDsF80_TmRgKywxQlXFgTg
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:SearchBatch 
+    xmlns:ns2="http://www.navteq.com/lbsp/Search-Batch/1">
+    <Response>
+        <MetaInfo>
+            <RequestId>zPjsWmRaYhNZuFNz5lFI6SAqNvGM0m7G</RequestId>
+        </MetaInfo>
+        <Status>accepted</Status>
+        <TotalCount>0</TotalCount>
+        <ValidCount>0</ValidCount>
+        <InvalidCount>0</InvalidCount>
+        <ProcessedCount>0</ProcessedCount>
+        <PendingCount>0</PendingCount>
+        <SuccessCount>0</SuccessCount>
+        <ErrorCount>0</ErrorCount>
+    </Response>
+</ns2:SearchBatch>
+
+
+BATCH 2 CON SEPARACION --------
+
+http://batch.geocoder.cit.api.here.com/6.2/jobs/M1jYUp2sABzD8seum2Pj9nJZyOIifr32?action=status&app_id=xKm59owTXnvSZ5zyQdXN&app_code=bDsF80_TmRgKywxQlXFgTg
+
+http://batch.geocoder.cit.api.here.com/6.2/jobs/M1jYUp2sABzD8seum2Pj9nJZyOIifr32/all?app_id=xKm59owTXnvSZ5zyQdXN&app_code=bDsF80_TmRgKywxQlXFgTg
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:SearchBatch 
+    xmlns:ns2="http://www.navteq.com/lbsp/Search-Batch/1">
+    <Response>
+        <MetaInfo>
+            <RequestId>M1jYUp2sABzD8seum2Pj9nJZyOIifr32</RequestId>
+        </MetaInfo>
+        <Status>accepted</Status>
+        <TotalCount>0</TotalCount>
+        <ValidCount>0</ValidCount>
+        <InvalidCount>0</InvalidCount>
+        <ProcessedCount>0</ProcessedCount>
+        <PendingCount>0</PendingCount>
+        <SuccessCount>0</SuccessCount>
+        <ErrorCount>0</ErrorCount>
+    </Response>
+</ns2:SearchBatch>
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:SearchBatch 
+    xmlns:ns2="http://www.navteq.com/lbsp/Search-Batch/1">
+    <Response>
+        <MetaInfo>
+            <RequestId>Pmv8IULO4HCMb5Yhf6D9tpiuCYJJZgkB</RequestId>
+        </MetaInfo>
+        <Status>completed</Status>
+        <JobStarted>2015-04-22T16:23:39.000Z</JobStarted>
+        <JobFinished>2015-04-22T17:51:10.000Z</JobFinished>
+        <TotalCount>145014</TotalCount>
+        <ValidCount>145014</ValidCount>
+        <InvalidCount>0</InvalidCount>
+        <ProcessedCount>145014</ProcessedCount>
+        <PendingCount>0</PendingCount>
+        <SuccessCount>139085</SuccessCount>
+        <ErrorCount>5929</ErrorCount>
+    </Response>
+</ns2:SearchBatch>
+

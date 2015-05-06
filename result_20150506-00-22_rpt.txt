@@ -1,0 +1,42 @@
+
+ Date: 05-06-2015 01:18:05
+ BGC version: 6.2.35.2
+ GC version: 6.2.80.0
+
+ #### SUMMARY ####
+ Country Match: 0(0%)
+ PostalCode Match: 4399(3%)
+ State Match: 0(0%)
+ County Match: 0(0%)
+ City Match: 29136(20%)
+ District Match: 22382(15%)
+ Street Match: 83992(57%)
+ HouseNumber Match: 1793(1%)
+ Floor Match: 0(0%)
+ Suite Match: 0(0%)
+ Other Match: 0(0%)
+ Total Matched records: 141703(97%)
+ Error Match: 3311(2%)
+ Total Records: 145014
+ Total Output matched records: 215219
+ Total Batch Geocoding  Time : 3348563ms
+ Average Search Service Time : 274ms
+ Total Number of Retried URLs : 0
+
+ #### Unknown ####
+ Country Match: 0(0%)
+ PostalCode Match: 4399(3%)
+ State Match: 0(0%)
+ County Match: 0(0%)
+ City Match: 29136(20%)
+ District Match: 22382(15%)
+ Street Match: 83992(57%)
+ HouseNumber Match: 1793(1%)
+ Floor Match: 0(0%)
+ Suite Match: 0(0%)
+ Other Match: 0(0%)
+ Total Matched records: 141703(97%)
+ Error Match: 3311(2%)
+ Total Records: 145014
+ Total Output matched records: 215219
+ Average Search Service Time : 274ms
