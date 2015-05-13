@@ -27,6 +27,8 @@
 					$state_string = array('state_name' => str_replace("'", "", $converted_state));
 					$json_state = json_encode($state_string);
 					fwrite($state_file, $json_state);
+					//closing document
+					fclose($state_file);
 				}
 
 				//MUNICIPALITY FILES
@@ -45,6 +47,8 @@
 						);
 					$json_municipality = json_encode($municipality_string);
 					fwrite($municipality_file, $json_municipality);
+					//closing document
+					fclose($municipality_file);
 				}
 
 				//SUBURB FILES
@@ -63,6 +67,8 @@
 						);
 					$json_suburb = json_encode($suburb_string);
 					fwrite($suburb_file, $json_suburb);
+					//closing document
+					fclose($suburb_file);
 				}
 
 				//ZIP CODE FILES
@@ -85,6 +91,8 @@
 							);
 						$json_zip_code = json_encode($zip_code_string);
 						fwrite($zip_code_file, $json_zip_code);
+						//closing document
+						fclose($zip_code_file);
 					}
 					else
 					{
@@ -95,14 +103,10 @@
 							);
 						$json_zip_code = json_encode($zip_code_string);
 						fwrite($zip_code_file, $json_zip_code);
+						//closing document
+						fclose($zip_code_file);
 					}
 				}
-
-				//closing all documents
-				fclose($state_file);
-				fclose($zip_code_file);
-				fclose($municipality_file);
-				fclose($suburb_file);
 			}
 		}
 		fclose($handle);
