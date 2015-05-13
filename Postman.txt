@@ -24,7 +24,7 @@ BATCH CON SEPARACION --------
 
 http://batch.geocoder.cit.api.here.com/6.2/jobs/zPjsWmRaYhNZuFNz5lFI6SAqNvGM0m7G?action=status&app_id=xKm59owTXnvSZ5zyQdXN&app_code=bDsF80_TmRgKywxQlXFgTg
 
-http://batch.geocoder.cit.api.here.com/6.2/jobs/zPjsWmRaYhNZuFNz5lFI6SAqNvGM0m7G/all?app_id=xKm59owTXnvSZ5zyQdXN&app_code=bDsF80_TmRgKywxQlXFgTg
+curl -o hola.zip http://batch.geocoder.cit.api.here.com/6.2/jobs/zPjsWmRaYhNZuFNz5lFI6SAqNvGM0m7G/all?app_id=xKm59owTXnvSZ5zyQdXN&app_code=bDsF80_TmRgKywxQlXFgTg
 
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns2:SearchBatch 
