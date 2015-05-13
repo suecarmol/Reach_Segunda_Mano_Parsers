@@ -7,7 +7,7 @@
 #NOTE: you will need to name the folders according to the types of documents in order for this to work.
 
 
-FILES=/Users/suecarmol/Documents/Decimo_Semestre/Proyecto_Integrador/Segundo_Parcial/Segunda_Mano_Parsers/$1_documents/*
+FILES=$1_documents/*
 for f in $FILES
 do
   echo "Processing $f file..."

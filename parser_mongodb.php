@@ -13,18 +13,16 @@
 			{
 
 				setlocale(LC_ALL, 'en_US.UTF8');
-				//creating files with different names
-				//preg_replace substitutes the spaces for underscores (mongoimport doesnt accept document names with spaces)
-				$zip_code_file = fopen("zip_code_documents/" . preg_replace('/\s+/', '_', $data[8]) . "_document.json", "w");
-				$suburb_file = fopen("suburb_documents/" . preg_replace('/\s+/', '_', $data[5]) . "_document.json", "w");
-				$municipality_file = fopen("municipality_documents/" . preg_replace('/\s+/', '_', $data[7]) . "_document.json", "w");
-				$state_file = fopen("state_documents/" . preg_replace('/\s+/', '_', $data[9]) . "_document.json", "w");
-
 
 				//STATE FILES
 				//checking if state field is not null
 				if($data[9] != null)
 				{					
+					//creating files with different names
+					//preg_replace substitutes the spaces for underscores 
+					//(mongoimport doesnt accept document names with spaces)
+					$state_file = fopen("state_documents/" . preg_replace('/\s+/', '_', $data[9]) ."_document.json", "w");
+
 					$converted_state = iconv('UTF-8', 'ASCII//TRANSLIT', $data[9]);
 					$state_string = array('state_name' => str_replace("'", "", $converted_state));
 					$json_state = json_encode($state_string);
@@ -34,6 +32,11 @@
 				//MUNICIPALITY FILES
 				//checking if state field and municipality are not null
 				if($data[7] != null && $data[9] != null){
+					//creating files with different names
+					//preg_replace substitutes the spaces for underscores 
+					//(mongoimport doesnt accept document names with spaces)
+					$municipality_file = fopen("municipality_documents/" . preg_replace('/\s+/', '_', $data[7]) . "_document.json", "w");
+
 					$converted_state_id = iconv('UTF-8', 'ASCII//TRANSLIT', $data[9]);
 					$converted_municipality = iconv('UTF-8', 'ASCII//TRANSLIT', $data[7]);
 
@@ -47,6 +50,11 @@
 				//SUBURB FILES
 				//checking if suburb field and municipality are not null
 				if($data[7] != null && $data[5] != null){
+					//creating files with different names
+					//preg_replace substitutes the spaces for underscores 
+					//(mongoimport doesnt accept document names with spaces)
+					$suburb_file = fopen("suburb_documents/" . preg_replace('/\s+/', '_', $data[5]) . "_" . uniqid() . "_document.json", "w");
+
 					$converted_municipality_id = iconv('UTF-8', 'ASCII//TRANSLIT', $data[7]);
 					$converted_suburb = iconv('UTF-8', 'ASCII//TRANSLIT', $data[5]);
 
@@ -60,6 +68,11 @@
 				//ZIP CODE FILES
 				//checking if suburb field and zip code are not null
 				if($data[8] != null && $data[3] != null && $data[4] != null){
+					//creating files with different names
+					//preg_replace substitutes the spaces for underscores 
+					//(mongoimport doesnt accept document names with spaces)
+					$zip_code_file = fopen("zip_code_documents/" . preg_replace('/\s+/', '_', $data[8]) ."_". uniqid() ."_document.json", "w");
+
 					$converted_suburb_id = iconv('UTF-8', 'ASCII//TRANSLIT', $data[5]);
 					$converted_municipality_sub = iconv('UTF-8', 'ASCII//TRANSLIT', $data[7]);
 
